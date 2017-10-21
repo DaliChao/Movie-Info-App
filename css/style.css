@@ -1,0 +1,15 @@
+#root img{
+  width:100%;
+}
+
+@media(min-width:960px){
+#root .col-md-3 .well{
+  height:390px;
+}
+#root .col-md-3 img{
+  height:240px;
+}
+.col-md-3 h5{
+  height:50px;
+}
+}
