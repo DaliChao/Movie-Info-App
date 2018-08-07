@@ -13,6 +13,10 @@ nav a.navbar-brand{
   padding:40px;
 }
 
+.col-md-8{
+  margin-bottom:20px;
+}
+
 @media(min-width:960px){
 #root .col-md-3 .well{
   height:450px;
