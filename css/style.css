@@ -2,6 +2,17 @@
   width:100%;
 }
 
+nav.navbar{
+ background-color: #1e272f;
+  margin-bottom:50px;
+}
+nav a.navbar-brand{
+ color:#fff;
+}
+.jumbotron{
+  padding:40px;
+}
+
 @media(min-width:960px){
 #root .col-md-3 .well{
   height:390px;
