@@ -15,10 +15,10 @@ nav a.navbar-brand{
 
 @media(min-width:960px){
 #root .col-md-3 .well{
-  height:390px;
+  height:450px;
 }
 #root .col-md-3 img{
-  height:240px;
+  height:310px;
 }
 .col-md-3 h5{
   height:50px;
