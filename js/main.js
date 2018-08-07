@@ -51,7 +51,7 @@ function getMovieDetail(){
         </div>
         <div class="col-md-8">
           <h2>${movie.Title}</h2>
-          <ul class="list-group">
+          <ul class="list-group" style="margin-bottom:20px;">
             <li class="list-group-item">Genre: ${movie.Genre}</li>
             <li class="list-group-item">Released: ${movie.Released}</li>
             <li class="list-group-item">Country: ${movie.Country}</li>
@@ -64,7 +64,7 @@ function getMovieDetail(){
           <h4>Plot</h4>
           <p>${movie.Plot}</p>
           <a href="http://imdb.com/title/${movie.imdbID}" class="btn btn-primary" target="_blank">View on IMDB</a>
-          <a href="index.html" class="btn btn-default">Back to Search</a>
+          <a href="index.html" class="btn btn-success">Back to Search</a>
         </div>
 
       </div>
